@@ -1,7 +1,8 @@
 **<h1>Synthetic Image Generation Diffusion Model:</h1>**
 
+<div align="center">
 ![Brain 2](https://github.com/user-attachments/assets/d11f2754-30b9-4e2f-a438-1ec35f5d967d)
-
+</div>
 
 
 **Purpose:** Generates synthetic brain MRI scans that mirror real scans in anatomical and diagnostic detail, addressing data scarcity in medical imaging.
