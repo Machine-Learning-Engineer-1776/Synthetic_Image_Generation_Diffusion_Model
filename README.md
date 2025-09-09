@@ -1,4 +1,4 @@
-  <h2>**Synthetic Image Generation Diffusion Model**</h2>
+  **<h2>Synthetic Image Generation Diffusion Model</h2>**
 
 
 
