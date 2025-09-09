@@ -34,7 +34,7 @@
 
 
 
-Link to Results and Evaluations
+Evaluation of Images Generated.md
 
 
 
