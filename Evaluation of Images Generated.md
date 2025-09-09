@@ -6,9 +6,7 @@ Methodology: Utilizes a Stable Diffusion Probabilistic Model with 1000 timestep 
 [Diffusion Model](https://colab.research.google.com/drive/1WGBU5wFZLuQp_2VBkuYLOs8ByQ3K5hH6?usp=sharing)
 
 
-Achievements: Produced 12,500+ T1-weighted synthetic brain MRI scans, validated by board-certified neuroradiologists with 95% anatomical fidelity and 92% diagnostic equivalence to real scans. Overcame initial dataset limitations of 500 images, ensuring robust model generalization.
-
-Model Evaluation:
+Achievements: Produced 12,500+ T1-weighted synthetic brain MRI scans, validated by board-certified neuroradiologists with **95% anatomical fidelity** and **92% diagnostic equivalence** to real scans. Overcame initial dataset limitations of 500 images, ensuring robust model generalization.
 
 **Image Comparison:**
 Generated T1-weighted synthetic brain MRI using 50 batches, 1000 timesteps, and guidance scale 7.0.
