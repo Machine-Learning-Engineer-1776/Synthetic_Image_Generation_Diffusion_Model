@@ -1,4 +1,4 @@
-**Synthetic Image Generation Diffusion Model**
+  **Synthetic Image Generation Diffusion Model**
 
 
 
