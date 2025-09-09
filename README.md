@@ -13,6 +13,9 @@
 
 
 
+
+
+
 + **Diffusion Model:** Leverages a Denoising Diffusion Probabilistic Model (DDPM) with 1000 timestep increments, a classifier-free guidance scale of 7.5, and a U-Net backbone optimized for 256x256 resolution. Trained on NVIDIA A100 GPUs, achieving a Fréchet Inception Distance (FID) score of 3.2, indicating superior image quality.
 
 
