@@ -1,4 +1,4 @@
-**Synthetic Image Generation Evaluation**
+<u>**Synthetic Image Generation Evaluation**</u>
 
 This section presents the evaluation results for our synthetic image generation project, which successfully developed an AI model to generate realistic brain MRI scans using advanced generative techniques, including a Stable Diffusion pipeline. The model’s performance was rigorously assessed using quantitative metrics (SSIM, PSNR, LPIPS, and FID) and qualitative manual scoring, demonstrating its ability to produce high-fidelity brain scans distinguishable from random shapes. These results highlight the project’s potential for applications in medical imaging and CRISPR-driven DNA visualization, showcasing proficiency in generative AI and bioinformatics.
 
