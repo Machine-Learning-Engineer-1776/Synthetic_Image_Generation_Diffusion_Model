@@ -1,4 +1,4 @@
-Synthetic Brain Image Generation Diffusion Model
+**Synthetic Brain Image Generation Diffusion Model**
 
 Due to GitHub’s rendering limitations with Jupyter Notebook metadata, specifically issues with the metadata.widgets section causing rendering errors, the synthetic image generation model and its associated notebook are hosted on **Google Colab**. This ensures seamless access to the executable code, generated brain MRI scans, and evaluation metrics (SSIM: 0.4526, PSNR: 14.9781, LPIPS: ~0.1, manual score 5/5), allowing users to interact with the model and reproduce results effortlessly. Hosting on Colab maintains the project’s integrity and accessibility, supporting its application in medical imaging and CRISPR-driven DNA visualization.
 
