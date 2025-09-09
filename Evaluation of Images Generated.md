@@ -1,4 +1,6 @@
-Synthetic Image Generation Diffusion Model
+**<h1>Synthetic Image Generation Diffusion Model</h1>**
+![Dem Brains](https://github.com/user-attachments/assets/a86d6b4a-7d6f-4dea-aff1-66b42645be62)
+
 
   
 
@@ -26,9 +28,13 @@ Validated by mentors as visually indistinguishable from real scans, capturing in
 
   
 
-Quantitative Metrics:
+**Quantitative Metrics:**
+
+![FID Eval 2](https://github.com/user-attachments/assets/85013db3-b9c1-4580-9653-0fcd9257f016)
+
 Fréchet Inception Distance (FID): Achieved a competitive score of 3.2, indicating strong distributional similarity to real MRI scans despite initial Colab memory constraints (see chart below).
   
+**<img width="1189" height="590" alt="Other Evaluation Metrics" src="https://github.com/user-attachments/assets/0d3ad2aa-829f-4cc8-884f-d017a0852055" />**
 
 Structural Similarity Index (SSIM): 0.4526, reflecting structural fidelity.
 Peak Signal-to-Noise Ratio (PSNR): 14.9781, demonstrating low noise in generated images.
