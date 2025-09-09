@@ -20,10 +20,10 @@
 
 
 
+<div align="center">
+<h1>[Diffusion Model](https://colab.research.google.com/drive/1WGBU5wFZLuQp_2VBkuYLOs8ByQ3K5hH6?usp=sharing)</h1>
 
-[Diffusion Model](https://colab.research.google.com/drive/1WGBU5wFZLuQp_2VBkuYLOs8ByQ3K5hH6?usp=sharing)
-
-
+</div>
 
 
 
