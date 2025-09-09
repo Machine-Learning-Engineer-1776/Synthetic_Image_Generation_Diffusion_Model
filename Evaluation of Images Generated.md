@@ -1,6 +1,6 @@
-<h1>
-**Synthetic Image Generation Evaluation**
-</h1>
+
+**<h1>Synthetic Image Generation Evaluation</h1>**
+
 
 
 
