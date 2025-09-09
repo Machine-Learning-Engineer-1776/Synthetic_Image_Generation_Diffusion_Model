@@ -31,10 +31,12 @@
 + **Achievements and Evalution:** Generated 12,500+ synthetic brain MRI scans (T1-weighted), validated by a panel of board-certified neuroradiologists with 95% anatomical fidelity and 92% diagnostic equivalence to real scans. Overcame initial dataset constraints of 500 images, enabling robust model generalization.
 
 
+<div align="center">
 
 
 [Model Evaluation](https://github.com/Machine-Learning-Engineer-1776/Synthetic_Image_Generation_Diffusion_Model/blob/ca2f1d8f6764b2605145fcfae75acfb72d511491/Evaluation%20of%20Images%20Generated.md)
 
+</div>
 
 
 + Impact: Accelerates diagnostic AI training by 35%, reduces dependency on sensitive patient data by 80%, and supports clinical trials with synthetic datasets, improving patient outcomes in neuroimaging for conditions like glioblastoma and Alzheimer’s.
