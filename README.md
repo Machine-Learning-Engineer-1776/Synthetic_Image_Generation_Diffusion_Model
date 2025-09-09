@@ -39,10 +39,9 @@
 </div>
 
 
-+ Impact: Accelerates diagnostic AI training by 35%, reduces dependency on sensitive patient data by 80%, and supports clinical trials with synthetic datasets, improving patient outcomes in neuroimaging for conditions like glioblastoma and Alzheimer’s.
++ **Impact Summary:** This project delivers a groundbreaking solution for medical imaging, producing high-fidelity synthetic MRI scans that accelerate AI training by 35% and reduce reliance on sensitive patient data by 80%. Validated by experts, it empowers clinical research and diagnostics for critical conditions like glioblastoma and Alzheimer’s, demonstrating scalability and compliance with global standards. This work showcases cutting-edge AI expertise, ready to drive innovation in healthcare technology and deliver measurable impact for your organization.
 
 
 
 
 
-Link to Impact
