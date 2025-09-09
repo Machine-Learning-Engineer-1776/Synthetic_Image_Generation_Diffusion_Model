@@ -20,7 +20,11 @@
 
 
   
-<div align="center">[Diffusion Model](https://colab.research.google.com/drive/1WGBU5wFZLuQp_2VBkuYLOs8ByQ3K5hH6?usp=sharing)</div>
+<div align="center">
+
+[Diffusion Model](https://colab.research.google.com/drive/1WGBU5wFZLuQp_2VBkuYLOs8ByQ3K5hH6?usp=sharing)
+
+</div>
 
 
 
