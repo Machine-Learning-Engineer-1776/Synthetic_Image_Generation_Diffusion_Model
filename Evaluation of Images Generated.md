@@ -6,7 +6,6 @@
 [Diffusion Model](https://colab.research.google.com/drive/1WGBU5wFZLuQp_2VBkuYLOs8ByQ3K5hH6?usp=sharing)
 
 
-**Achievements:** : Produced 12,500+ T1-weighted synthetic brain MRI scans, overcoming initial dataset constraints of 500 images to enable robust model generalization. Demonstrated high-quality outputs through rigorous quantitative and qualitative evaluations.
 
 **Image Comparison:**
 Generated T1-weighted synthetic brain MRI using 50 batches, 1000 timesteps, and guidance scale 7.0.
@@ -33,7 +32,7 @@ Fréchet Inception Distance (FID): Achieved a score of 3.2, indicating high dist
   
 
 
-
+**Achievements:** : Produced 12,500+ T1-weighted synthetic brain MRI scans, overcoming initial dataset constraints of 500 images to enable robust model generalization. Demonstrated high-quality outputs through rigorous quantitative and qualitative evaluations.
 
 
 **Key Outcomes:** Delivers a state-of-the-art solution for medical imaging, producing 12,500+ high-fidelity synthetic MRI scans that accelerate AI training by 35% and reduce sensitive patient data reliance by 80%. Expert-validated and compliant with global standards, it empowers clinical research and diagnostics for conditions like glioblastoma and Alzheimer’s, showcasing advanced generative AI expertise ready to drive healthcare innovation.
