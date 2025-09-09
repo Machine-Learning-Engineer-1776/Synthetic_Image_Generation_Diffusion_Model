@@ -1,4 +1,4 @@
-# Synthetic_Image_Generation_Diffusion_Model
+**Synthetic Image Generation Diffusion Model**
 Diffusion Model for Synthetic Image Generation.    Generates Brain Scan Images identical to Real Brain scans.
 
 ![Brain 2](https://github.com/user-attachments/assets/d11f2754-30b9-4e2f-a438-1ec35f5d967d)
