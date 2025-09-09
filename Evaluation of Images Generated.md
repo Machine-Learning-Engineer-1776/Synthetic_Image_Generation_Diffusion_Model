@@ -14,6 +14,9 @@ Model Evaluation:
 Generated T1-weighted synthetic brain MRI using 50 batches, 1000 timesteps, and guidance scale 7.0.
 Validated by mentors as visually indistinguishable from real scans, capturing detailed brain structures.
 
+
+**Qualitative Validation:** Earned a 5/5 manual score from mentors, outperforming VAE, DCGAN, and U-Net GAN models in anatomical accuracy and visual clarity.
+
 ![Dem Brains](https://github.com/user-attachments/assets/a86d6b4a-7d6f-4dea-aff1-66b42645be62)
 
 
@@ -33,7 +36,6 @@ Fréchet Inception Distance (FID): Achieved a score of 3.2, indicating high dist
 
 
 
-**Qualitative Validation:** Earned a 5/5 manual score from mentors, outperforming VAE, DCGAN, and U-Net GAN models in anatomical accuracy and visual clarity.
 
 
 **Key Outcomes:** Delivers a state-of-the-art solution for medical imaging, producing 12,500+ high-fidelity synthetic MRI scans that accelerate AI training by 35% and reduce sensitive patient data reliance by 80%. Expert-validated and compliant with global standards, it empowers clinical research and diagnostics for conditions like glioblastoma and Alzheimer’s, showcasing advanced generative AI expertise ready to drive healthcare innovation.
