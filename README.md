@@ -33,8 +33,7 @@
 
 
 
-
-Evaluation of Images Generated.md
+[Model Evaluation](https://github.com/Machine-Learning-Engineer-1776/Synthetic_Image_Generation_Diffusion_Model/blob/ca2f1d8f6764b2605145fcfae75acfb72d511491/Evaluation%20of%20Images%20Generated.md)
 
 
 
