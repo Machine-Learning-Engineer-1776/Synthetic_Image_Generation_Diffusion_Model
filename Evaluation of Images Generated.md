@@ -1,4 +1,4 @@
-Synthetic Image Generation Diffusion Model Evaluation:
+**<h1>Synthetic Image Generation Diffusion Model Evaluation:</h1>**
 
   
 Methodology: Utilizes a Stable Diffusion Probabilistic Model with 1000 timestep increments, a classifier-free guidance scale of 7.0, and a U-Net backbone optimized for 256x256 resolution. Trained on NVIDIA A100 GPUs, achieving a Fréchet Inception Distance (FID) score of 3.2 for superior image quality.
