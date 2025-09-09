@@ -9,11 +9,11 @@
 </div>
 
 
-**Purpose & Objective:** Develop a scalable AI-driven solution to generate synthetic brain MRI scans with anatomical and diagnostic fidelity indistinguishable from real scans, addressing data scarcity in medical imaging. Enhances AI model training, clinical research, and diagnostic accuracy while ensuring compliance with HIPAA, GDPR, and DICOM standards, reducing reliance on sensitive patient data.
++ **Purpose & Objective:** Develop a scalable AI-driven solution to generate synthetic brain MRI scans with anatomical and diagnostic fidelity indistinguishable from real scans, addressing data scarcity in medical imaging. Enhances AI model training, clinical research, and diagnostic accuracy while ensuring compliance with HIPAA, GDPR, and DICOM standards, reducing reliance on sensitive patient data.
 
 
 
-**Diffusion Model:** Leverages a Denoising Diffusion Probabilistic Model (DDPM) with 1000 timestep increments, a classifier-free guidance scale of 7.5, and a U-Net backbone optimized for 256x256 resolution. Trained on NVIDIA A100 GPUs, achieving a Fréchet Inception Distance (FID) score of 3.2, indicating superior image quality.
++ **Diffusion Model:** Leverages a Denoising Diffusion Probabilistic Model (DDPM) with 1000 timestep increments, a classifier-free guidance scale of 7.5, and a U-Net backbone optimized for 256x256 resolution. Trained on NVIDIA A100 GPUs, achieving a Fréchet Inception Distance (FID) score of 3.2, indicating superior image quality.
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-**Achievements and Evalution:** Generated 12,500+ synthetic brain MRI scans (T1-weighted), validated by a panel of board-certified neuroradiologists with 95% anatomical fidelity and 92% diagnostic equivalence to real scans. Overcame initial dataset constraints of 500 images, enabling robust model generalization.
++ **Achievements and Evalution:** Generated 12,500+ synthetic brain MRI scans (T1-weighted), validated by a panel of board-certified neuroradiologists with 95% anatomical fidelity and 92% diagnostic equivalence to real scans. Overcame initial dataset constraints of 500 images, enabling robust model generalization.
 
 
 
@@ -34,7 +34,7 @@ Link to Results and Evaluations
 
 
 
-Impact: Accelerates diagnostic AI training by 35%, reduces dependency on sensitive patient data by 80%, and supports clinical trials with synthetic datasets, improving patient outcomes in neuroimaging for conditions like glioblastoma and Alzheimer’s.
++ Impact: Accelerates diagnostic AI training by 35%, reduces dependency on sensitive patient data by 80%, and supports clinical trials with synthetic datasets, improving patient outcomes in neuroimaging for conditions like glioblastoma and Alzheimer’s.
 
 
 
