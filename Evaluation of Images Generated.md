@@ -5,7 +5,7 @@
   
 
 
-Executive Summary
+**Executive Summary**
 
 Purpose & Objective: Develop a scalable AI-driven solution to generate synthetic brain MRI scans with anatomical and diagnostic fidelity indistinguishable from real scans. Addresses data scarcity in medical imaging, enhancing AI training, clinical research, and diagnostic accuracy while ensuring compliance with HIPAA, GDPR, and DICOM standards, reducing reliance on sensitive patient data.
 
@@ -30,17 +30,18 @@ Validated by mentors as visually indistinguishable from real scans, capturing in
 
 **Quantitative Metrics:**
 
+Fréchet Inception Distance (FID): Achieved a competitive score of 3.2, indicating strong distributional similarity to real MRI scans despite initial Colab memory constraints (see chart below).
+
 ![FID Eval 2](https://github.com/user-attachments/assets/85013db3-b9c1-4580-9653-0fcd9257f016)
 
-Fréchet Inception Distance (FID): Achieved a competitive score of 3.2, indicating strong distributional similarity to real MRI scans despite initial Colab memory constraints (see chart below).
   
-**<img width="1189" height="590" alt="Other Evaluation Metrics" src="https://github.com/user-attachments/assets/0d3ad2aa-829f-4cc8-884f-d017a0852055" />**
+
 
 Structural Similarity Index (SSIM): 0.4526, reflecting structural fidelity.
 Peak Signal-to-Noise Ratio (PSNR): 14.9781, demonstrating low noise in generated images.
 Learned Perceptual Image Patch Similarity (LPIPS): ~0.1, confirming high perceptual quality.
   
-
+**<img width="1189" height="590" alt="Other Evaluation Metrics" src="https://github.com/user-attachments/assets/0d3ad2aa-829f-4cc8-884f-d017a0852055" />**
 
 
 Qualitative Validation: Earned a 5/5 manual score from mentors, surpassing earlier VAE, DCGAN, and U-Net GAN models in visual clarity and anatomical accuracy.
