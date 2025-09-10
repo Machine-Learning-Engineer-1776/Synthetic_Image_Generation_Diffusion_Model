@@ -22,7 +22,7 @@
   
 <div align="center">
 
-[Diffusion Model - Stored in Google Colab](https://colab.research.google.com/drive/1WGBU5wFZLuQp_2VBkuYLOs8ByQ3K5hH6?usp=sharing)
+[Diffusion Model (Stored in Google Colab)](https://colab.research.google.com/drive/1WGBU5wFZLuQp_2VBkuYLOs8ByQ3K5hH6?usp=sharing)
 
 </div>
 
