@@ -8,6 +8,7 @@
 
 </div>
 
+The Synthetic Brain Image Generator is part of the **Brain Suite App**. http://44.246.164.107:8501/
 
 + **Purpose & Objective:** Develop a scalable AI-driven solution to generate synthetic brain MRI scans with anatomical and diagnostic fidelity indistinguishable from real scans, addressing data scarcity in medical imaging. Enhances AI model training, clinical research, and diagnostic accuracy while ensuring compliance with HIPAA, GDPR, and DICOM standards, reducing reliance on sensitive patient data.
 
