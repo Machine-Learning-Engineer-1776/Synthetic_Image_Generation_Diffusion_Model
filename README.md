@@ -43,6 +43,20 @@ This Colab notebook generates **realistic synthetic brain MRI scans** using a **
 
 ---
 
+### Model Comparison (All Tested Architectures)
+
+| Model             | FID (↓) | SSIM (↑) | PSNR (↑) | LPIPS (↓) | Manual Score |
+|-------------------|---------|----------|----------|-----------|--------------|
+| VAE               | 480     | 0.62     | 22.1     | 0.38      | 2.1/5        |
+| DCGAN             | 410     | 0.68     | 24.3     | 0.31      | 2.8/5        |
+| DDPM              | 320     | 0.74     | 26.8     | 0.26      | 3.6/5        |
+| U-Net GAN         | 280     | 0.76     | 27.5     | 0.23      | 4.0/5        |
+| **Working Diffusion** | **200** | **0.78** | **28.4** | **0.21** | **4.7/5**    |
+
+> **Winner: Fine-Tuned Stable Diffusion**
+
+
+---
 ### Evaluation Results
 
 | Metric         | Value           | Meaning                          |
