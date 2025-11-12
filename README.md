@@ -69,7 +69,13 @@ Generates **photorealistic 256×256×3 synthetic brain MRI scans** using a **fin
 | LPIPS          | 0.21            | Perceptually close to real       |
 
 ---
+### Why This Matters
 
+- **Solves data scarcity** in medical AI  
+- **Enables privacy-safe testing** (no real patient data in demo)  
+- **Showcases end-to-end ML engineering**: diffusion, evaluation, deployment  
+- **Portfolio gold**: generative AI + healthcare + Streamlit + Colab
+- 
 ---
 
 *Built with PyTorch + Hugging Face Diffusers.*
