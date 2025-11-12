@@ -16,7 +16,7 @@
 ![Diffusers](https://img.shields.io/badge/HuggingFace%20Diffusers-green)
 ![Colab](https://img.shields.io/badge/Google%20Colab-Run%20Here-orange)
 
-**GitHub:** [Brain Suite]https://github.com/Machine-Learning-Engineer-1776/Brain_Suite_App)
+**Brain Suite GitHub:** https://github.com/Machine-Learning-Engineer-1776/Brain_Suite_App)
 
 ---
 
