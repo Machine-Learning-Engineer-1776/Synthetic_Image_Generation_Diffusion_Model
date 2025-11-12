@@ -23,7 +23,9 @@
 
 ## Overview
 
-This Colab notebook generates **realistic synthetic brain MRI scans** using a **fine-tuned Stable Diffusion model**.
+This **Colab notebook** powers the **synthetic MRI generation engine** behind the **[Brain Suite Tumor Classifier](http://44.246.164.107:8501)** — a full-stack medical AI demo combining **generative + diagnostic AI**.
+
+Generates **photorealistic 256×256×3 synthetic brain MRI scans** using a **fine-tuned Stable Diffusion model** trained on real clinical data.
 
 - **Input**: 256×256 grayscale MRI slices  
 - **Output**: 256×256×3 color synthetic MRIs  
