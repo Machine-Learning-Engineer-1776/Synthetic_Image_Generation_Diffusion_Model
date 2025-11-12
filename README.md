@@ -16,14 +16,13 @@
 ![Diffusers](https://img.shields.io/badge/HuggingFace%20Diffusers-green)
 ![Colab](https://img.shields.io/badge/Google%20Colab-Run%20Here-orange)
 
-**Run in Colab:** [Open in Colab](https://colab.research.google.com/drive/PUT_YOUR_LINK_HERE)  
-**GitHub:** [github.com/YOUR_USERNAME/Synthetic-MRI-Diffusion](https://github.com/YOUR_USERNAME/Synthetic-MRI-Diffusion)
+**GitHub:** [(https://github.com/Machine-Learning-Engineer-1776/Brain_Suite_App)]
 
 ---
 
 ## Overview
 
-This **Colab notebook** powers the **synthetic MRI generation engine** behind the **[Brain Suite Tumor Classifier](http://44.246.164.107:8501)** — a full-stack medical AI demo combining **generative + diagnostic AI**.
+This **Stable Diffusion Model** powers the **synthetic MRI generation engine** behind the **[Brain Suite Tumor Classifier](http://44.246.164.107:8501)** — a full-stack medical AI demo combining **generative + diagnostic AI**.
 
 Generates **photorealistic 256×256×3 synthetic brain MRI scans** using a **fine-tuned Stable Diffusion model** trained on real clinical data.
 
@@ -75,7 +74,6 @@ Generates **photorealistic 256×256×3 synthetic brain MRI scans** using a **fin
 - **Enables privacy-safe testing** (no real patient data in demo)  
 - **Showcases end-to-end ML engineering**: diffusion, evaluation, deployment  
 - **Portfolio gold**: generative AI + healthcare + Streamlit + Colab
-- 
+  
 ---
 
-*Built with PyTorch + Hugging Face Diffusers.*
