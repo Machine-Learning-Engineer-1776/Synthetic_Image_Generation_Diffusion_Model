@@ -1,4 +1,4 @@
-**<h1>Synthetic Image Generation Diffusion Model:</h1>**
+**<h1>Synthetic MRI Generation with Fine-Tuned Stable Diffusion:</h1>**
 
 <div align="center">
 
